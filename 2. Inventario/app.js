@@ -22,6 +22,7 @@ var nuevosProductos = inventario.map(function (num){
 
 
 //calcular el valor total del inventario
+//SINTAXIS: arr.reduce(callback(acumulador, valorActual[, índice[, array]])[, valorInicial])
 var inicial = 0;
 var total = inventario.reduce(function(acumulador,producto,inicial){
     return acumulador + (producto.precio*producto.stock);
