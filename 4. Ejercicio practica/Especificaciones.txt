@@ -8,3 +8,15 @@
 8. Implementa un ejemplo que haga uso de Spread
 9. Implementa un retorno implicito
 10. Haz uso del this lexico 
+___________________________________________________
+
+11.Utiliza map, filter y reduce para crear un ejemplo diferente al de la leccion 
+12. Dado un array de numero, crea uno nuevo con dichos numeros elevados al cubo y filtra solo los pares 
+13. Utiliza flat y flatmap para crear un ejemplo diferente al de la leccion
+14. Ordena un array de numeros de mayor a menor
+15. Dados dos sets, encuentra la union, interseccion y diferencia de ellos
+16. Itera los resultados del ejercicio anterios
+17. Crea un mapa que almacena informacion de usuario(nombre, edad,email) e itera los datos
+18. Dado el mapa anterior, crea un array con los nombres
+19. Dado el mapa anterior, obten un array con los email de los usuarios mayores de edad y transformalos en un set
+20. Transforma el mapa en un objeto, a continuacion, transforma el objeto en un mapa con clave el email de cada usuario y como valor todos los datos del usuarios.
