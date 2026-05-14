@@ -20,3 +20,14 @@ ___________________________________________________
 18. Dado el mapa anterior, crea un array con los nombres
 19. Dado el mapa anterior, obten un array con los email de los usuarios mayores de edad y transformalos en un set
 20. Transforma el mapa en un objeto, a continuacion, transforma el objeto en un mapa con clave el email de cada usuario y como valor todos los datos del usuarios.
+_______________________________________________________________
+21. Agrega una funcion al prototipo de un objeto
+22. Crea un objeto que herede de otro 
+23. Define un metodo de instancia en un objeto. 
+24. Haz uso de get y set en un objeto
+25. Utiliza la operacion assign en un objeto
+26. Crea una clase abstracta
+27. Utiliza polimorfismo en dos clases diferentes
+28. Implementa un Mixin
+29. Crea un singleton
+30. Desarrolla un proxy
